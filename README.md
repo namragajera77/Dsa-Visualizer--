@@ -24,4 +24,4 @@ This Algorithm Visualizer is an educational web application designed to help stu
 - **Error Handling**: Clear error messages for invalid inputs
 - **Responsive Layout**: Works well on different screen sizes
 
-[Rest of your existing README content...]
+
